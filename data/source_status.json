@@ -1,0 +1,138 @@
+{
+ "generated": "2026-11-02T01:17:48.343092+00:00",
+ "failed": 2,
+ "total": 19,
+ "sources": [
+  {
+   "id": "nejm",
+   "name": "NEJM",
+   "ok": true,
+   "fetched": 57,
+   "new": 0
+  },
+  {
+   "id": "lancet",
+   "name": "The Lancet",
+   "ok": true,
+   "fetched": 30,
+   "new": 0
+  },
+  {
+   "id": "jama",
+   "name": "JAMA",
+   "ok": true,
+   "fetched": 47,
+   "new": 0
+  },
+  {
+   "id": "bmj",
+   "name": "BMJ",
+   "ok": true,
+   "fetched": 6,
+   "new": 0
+  },
+  {
+   "id": "annals",
+   "name": "Annals of Internal Medicine",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "id": "bja",
+   "name": "British Journal of Anaesthesia",
+   "ok": true,
+   "fetched": 144,
+   "new": 7
+  },
+  {
+   "id": "anaesthesia",
+   "name": "Anaesthesia",
+   "ok": true,
+   "fetched": 92,
+   "new": 0
+  },
+  {
+   "id": "anesthesiology",
+   "name": "Anesthesiology (via PubMed)",
+   "ok": false,
+   "error": "ParseError: not well-formed (invalid token): line 7, column 17"
+  },
+  {
+   "id": "fda-medwatch",
+   "name": "FDA MedWatch safety alerts",
+   "ok": true,
+   "fetched": 20,
+   "new": 0
+  },
+  {
+   "id": "hsa",
+   "name": "HSA announcements",
+   "ok": true,
+   "fetched": 16,
+   "new": 16
+  },
+  {
+   "id": "moh",
+   "name": "MOH press room",
+   "ok": true,
+   "fetched": 13,
+   "new": 13
+  },
+  {
+   "id": "st-sg",
+   "name": "Straits Times Singapore",
+   "ok": true,
+   "fetched": 36,
+   "new": 28
+  },
+  {
+   "id": "st-biz",
+   "name": "Straits Times Business",
+   "ok": true,
+   "fetched": 23,
+   "new": 19
+  },
+  {
+   "id": "cna-sg",
+   "name": "CNA Singapore",
+   "ok": true,
+   "fetched": 16,
+   "new": 15
+  },
+  {
+   "id": "cna-asia",
+   "name": "CNA Asia",
+   "ok": true,
+   "fetched": 15,
+   "new": 12
+  },
+  {
+   "id": "cna-biz",
+   "name": "CNA Business",
+   "ok": true,
+   "fetched": 13,
+   "new": 10
+  },
+  {
+   "id": "bbc-world",
+   "name": "BBC World",
+   "ok": true,
+   "fetched": 30,
+   "new": 27
+  },
+  {
+   "id": "bbc-biz",
+   "name": "BBC Business",
+   "ok": true,
+   "fetched": 46,
+   "new": 10
+  },
+  {
+   "id": "ars",
+   "name": "Ars Technica",
+   "ok": true,
+   "fetched": 20,
+   "new": 0
+  }
+ ]
+}
