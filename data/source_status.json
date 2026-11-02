@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T01:17:48.343092+00:00",
- "failed": 2,
+ "generated": "2026-11-02T01:36:44.560503+00:00",
+ "failed": 0,
  "total": 19,
  "sources": [
   {
@@ -33,16 +33,17 @@
   },
   {
    "id": "annals",
-   "name": "Annals of Internal Medicine",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "name": "Annals of Internal Medicine (via PubMed)",
+   "ok": true,
+   "fetched": 50,
+   "new": 0
   },
   {
    "id": "bja",
    "name": "British Journal of Anaesthesia",
    "ok": true,
    "fetched": 144,
-   "new": 7
+   "new": 0
   },
   {
    "id": "anaesthesia",
@@ -54,8 +55,9 @@
   {
    "id": "anesthesiology",
    "name": "Anesthesiology (via PubMed)",
-   "ok": false,
-   "error": "ParseError: not well-formed (invalid token): line 7, column 17"
+   "ok": true,
+   "fetched": 50,
+   "new": 0
   },
   {
    "id": "fda-medwatch",
@@ -69,14 +71,14 @@
    "name": "HSA announcements",
    "ok": true,
    "fetched": 16,
-   "new": 16
+   "new": 0
   },
   {
    "id": "moh",
    "name": "MOH press room",
    "ok": true,
    "fetched": 13,
-   "new": 13
+   "new": 1
   },
   {
    "id": "st-sg",
@@ -89,7 +91,7 @@
    "id": "st-biz",
    "name": "Straits Times Business",
    "ok": true,
-   "fetched": 23,
+   "fetched": 22,
    "new": 19
   },
   {

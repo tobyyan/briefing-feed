@@ -1,7 +1,18 @@
 {
- "generated": "2026-11-02T01:17:48.343092+00:00",
+ "generated": "2026-11-02T01:36:44.560503+00:00",
  "since_hours": 36,
  "items": [
+  {
+   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+   "date": "2026-11-02T01:18:27+00:00",
+   "source": "BBC World",
+   "source_id": "bbc-world",
+   "cat": "global",
+   "topic": "Global event",
+   "key": "5916ec6e788cd4e2"
+  },
   {
    "title": "Binance users withdraw $3.6bn after record crypto hack",
    "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
@@ -80,10 +91,10 @@
    "key": "1d395cb90e29828a"
   },
   {
-   "title": "Singapore haze: 24-hr PSI readings in the good-to-moderate across the country",
+   "title": "Singapore haze: 24-hr PSI readings in good-to-moderate range islandwide",
    "link": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-2-6511726",
    "summary": "1-hour PM2.5 readings are in the normal range across all regions.",
-   "date": "2026-11-02T08:08:14+08:00",
+   "date": "2026-11-02T08:08:00+08:00",
    "source": "CNA Singapore",
    "source_id": "cna-sg",
    "cat": "general",
@@ -102,7 +113,7 @@
    "key": "f5b6d367ab3d0aaf"
   },
   {
-   "title": "ST Live: News as it happens",
+   "title": "ST Live: Man charged in Telok Blangah murder brought back to crime scene",
    "link": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens7",
    "summary": "Follow the latest updates on ST.",
    "date": "2026-11-02T07:45:00+08:00",
@@ -144,17 +155,6 @@
    "cat": "general",
    "topic": "Singapore",
    "key": "192a98d5bfd1fc70"
-  },
-  {
-   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-   "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-   "date": "2026-11-01T22:38:24+00:00",
-   "source": "BBC World",
-   "source_id": "bbc-world",
-   "cat": "global",
-   "topic": "Global event",
-   "key": "5916ec6e788cd4e2"
   },
   {
    "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
@@ -223,17 +223,6 @@
    "key": "e7e2b11849f85330"
   },
   {
-   "title": "Decoys, safe AI hacking help cyberdefenders counter AI-powered attacks",
-   "link": "https://www.straitstimes.com/tech/decoys-safe-ai-hacking-help-cyberdefenders-counter-ai-powered-attacks",
-   "summary": "Research has found that many AI models fell for decoys 78.5% of the time compared with 37% for human hackers.",
-   "date": "2026-11-02T05:00:00+08:00",
-   "source": "Straits Times Singapore",
-   "source_id": "st-sg",
-   "cat": "general",
-   "topic": "Singapore",
-   "key": "b20a1fa02e5eb7be"
-  },
-  {
    "title": "Bridge to home ownership: Why Singapore is exploring build-to-rent",
    "link": "https://www.straitstimes.com/singapore/housing/bridge-to-home-ownership-why-singapore-is-exploring-build-to-rent",
    "summary": "The Government has been exploring BTR models in recognition of changing housing needs.",
@@ -243,6 +232,17 @@
    "cat": "general",
    "topic": "Singapore",
    "key": "a2b4303e93cee59f"
+  },
+  {
+   "title": "Decoys, safe AI hacking help cyberdefenders counter AI-powered attacks",
+   "link": "https://www.straitstimes.com/tech/decoys-safe-ai-hacking-help-cyberdefenders-counter-ai-powered-attacks",
+   "summary": "Research has found that many AI models fell for decoys 78.5% of the time compared with 37% for human hackers.",
+   "date": "2026-11-02T05:00:00+08:00",
+   "source": "Straits Times Singapore",
+   "source_id": "st-sg",
+   "cat": "general",
+   "topic": "Singapore",
+   "key": "b20a1fa02e5eb7be"
   },
   {
    "title": "Build-to-rent homes could appeal to young Singaporeans, but can rent be kept under $2,000?",
@@ -300,17 +300,6 @@
    "key": "03730397b33498ff"
   },
   {
-   "title": "From Bird Paradise to Amara Hotel: How inclusive workplaces help improve operations, strengthen teamwork",
-   "link": "https://www.straitstimes.com/singapore/disability-inclusive-workplaces-improve-operations-strengthen-teamwork-sg-enable",
-   "summary": "Employees with disabilities bring valuable skills and fresh perspectives to these Singapore organisations, while thoughtful adjustments help teams work more smoothly and deliver better service.",
-   "date": "2026-11-02T04:00:00+08:00",
-   "source": "Straits Times Singapore",
-   "source_id": "st-sg",
-   "cat": "general",
-   "topic": "Singapore",
-   "key": "dc725329b5444fe3"
-  },
-  {
    "title": "\u2018I treat every senior as I would a member of my own family\u2019: A home care nurse on finding his calling",
    "link": "https://www.straitstimes.com/singapore/jobs/community-care-day-home-nurse-methodist-welfare-services-aic",
    "summary": "Caring for his late father showed senior staff nurse R Subramaniam what families go through. Now he helps them manage illness at home.",
@@ -320,6 +309,17 @@
    "cat": "general",
    "topic": "Singapore",
    "key": "0177db2842b5cdfc"
+  },
+  {
+   "title": "From Bird Paradise to Amara Hotel: How inclusive workplaces help improve operations, strengthen teamwork",
+   "link": "https://www.straitstimes.com/singapore/disability-inclusive-workplaces-improve-operations-strengthen-teamwork-sg-enable",
+   "summary": "Employees with disabilities bring valuable skills and fresh perspectives to these Singapore organisations, while thoughtful adjustments help teams work more smoothly and deliver better service.",
+   "date": "2026-11-02T04:00:00+08:00",
+   "source": "Straits Times Singapore",
+   "source_id": "st-sg",
+   "cat": "general",
+   "topic": "Singapore",
+   "key": "dc725329b5444fe3"
   },
   {
    "title": "Retirement, wealth and AI: What a changing Asia means for investors",
@@ -1257,356 +1257,15 @@
    "key": "93f7b4ba334ed2fa"
   },
   {
-   "title": "Contents",
-   "link": "https://www.bjanaesthesia.org/article/S0007-0912(26)00752-X/fulltext?rss=yes",
-   "summary": "",
-   "date": null,
-   "source": "British Journal of Anaesthesia",
-   "source_id": "bja",
-   "cat": "medical",
-   "topic": "Anaesthesia",
-   "key": "0f19f9a95f6f9627"
-  },
-  {
-   "title": "Associate Editorial Board and cover image caption",
-   "link": "https://www.bjanaesthesia.org/article/S0007-0912(26)00751-8/fulltext?rss=yes",
-   "summary": "",
-   "date": null,
-   "source": "British Journal of Anaesthesia",
-   "source_id": "bja",
-   "cat": "medical",
-   "topic": "Anaesthesia",
-   "key": "027b01946591d4d3"
-  },
-  {
-   "title": "Editorial Board",
-   "link": "https://www.bjanaesthesia.org/article/S0007-0912(26)00750-6/fulltext?rss=yes",
-   "summary": "",
-   "date": null,
-   "source": "British Journal of Anaesthesia",
-   "source_id": "bja",
-   "cat": "medical",
-   "topic": "Anaesthesia",
-   "key": "76a11281899f2189"
-  },
-  {
-   "title": "Extracellular vesicle phenotypes in Anti-Neutrophil Cytoplasmic Antibody (ANCA)-associated vasculitis: a pilot study",
-   "link": "https://www.bjanaesthesia.org/article/S0007-0912(26)00637-9/fulltext?rss=yes",
-   "summary": "Anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) is a rare small-vessel vasculitis, with 33\u201353% mortality among critically ill patients and no reliable biomarkers to predict progression. Extracellular vesicles (EVs) reflect cellular activation, vascular injury, and coagulation status, but their relationship to AAV severity is unknown. We investigated whether EV concentration, size, and phenotype differ by AAV severity. We analysed 28 peridiagnostic, treatment-naive plasma samples from the RITA-Ireland Registry and Biobank: 15 with mild disease (Birmingham Vasculitis Acti",
-   "date": null,
-   "source": "British Journal of Anaesthesia",
-   "source_id": "bja",
-   "cat": "medical",
-   "topic": "Anaesthesia",
-   "key": "4c4ce51c746b8759"
-  },
-  {
-   "title": "An opioid stewardship programme for day surgery",
-   "link": "https://www.bjanaesthesia.org/article/S0007-0912(26)00636-7/fulltext?rss=yes",
-   "summary": "Opioid prescribing is increasing in Ireland, in contrast to the UK. A lack of prescribing governance leaves patients vulnerable to opioid-related harms. This study describes an opioid stewardship programme introduced for day surgery in a single centre (South Dublin Surgical Hub, St. James\u2019s Hospital, Dublin, Ireland). Baseline prescribing was audited from September to December 2025. An electronic prescribing bundle was introduced with oxycodone as the default opioid. A re-audit was performed from January to March 2026.",
-   "date": null,
-   "source": "British Journal of Anaesthesia",
-   "source_id": "bja",
-   "cat": "medical",
-   "topic": "Anaesthesia",
-   "key": "be61bac99c560997"
-  },
-  {
-   "title": "Patient-controlled analgesia education and satisfaction in a postoperative surgical cohort: a multicentre quality improvement study",
-   "link": "https://www.bjanaesthesia.org/article/S0007-0912(26)00635-5/fulltext?rss=yes",
-   "summary": "Patient-controlled analgesia (PCA) is widely used for postoperative pain management, but its effectiveness and safety depend on patient understanding. We evaluated PCA education, knowledge, confidence, and satisfaction across three Irish hospitals. A multicentre cross-sectional quality improvement study was conducted at Mater Misericordiae University Hospital, Beaumont Hospital, and Our Lady of Lourdes Hospital. Adult postoperative patients receiving i.v. PCA for \u226524 h completed a 25-item questionnaire assessing PCA education, knowledge, confidence, satisfaction, perceived pain relief, usabili",
-   "date": null,
-   "source": "British Journal of Anaesthesia",
-   "source_id": "bja",
-   "cat": "medical",
-   "topic": "Anaesthesia",
-   "key": "15488591d077f4b3"
-  },
-  {
-   "title": "Methods of developing leadership skills for healthcare operating theatre staff: a scoping review",
-   "link": "https://www.bjanaesthesia.org/article/S0007-0912(26)00634-3/fulltext?rss=yes",
-   "summary": "The operating theatre is a complex environment comprised of multidisciplinary teams functioning under high-pressure conditions in a health system with patients having increasing degrees of comorbidities. Effective leadership is critical to ensure collaboration, communication, efficiency, and patient safety. We aimed to synthesise evidence on leadership training programs designed for operating theatre staff. Systematic searches were conducted across three electronic databases following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-S",
-   "date": null,
-   "source": "British Journal of Anaesthesia",
-   "source_id": "bja",
-   "cat": "medical",
-   "topic": "Anaesthesia",
-   "key": "fb8ef56931efd28e"
-  },
-  {
-   "title": "Report incidents for enforcement",
-   "link": "https://www.hsa.gov.sg/about-us/enforcement-group/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "884fd26895435dac"
-  },
-  {
-   "title": "2 November 2026 2 November 2026 Report suspected side effects from medicines to your healthcare professional Audiences Consumer Healthcare professional Product-type Therapeutic Products Consumer Safety Articles",
-   "link": "https://www.hsa.gov.sg/announcements/reportsideeffects/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "90ef52ef43759af0"
-  },
-  {
-   "title": "1 November 2026 1 November 2026 Recall of Tetrabenazine 25mg 112\u2019s Sun-Italy Audiences Healthcare professional Product-type Therapeutic Products Retail-level recall of one batch of Tetrabenazine 25mg 112\u2019s Sun-Italy, containing tetrabenazine, due to presence of black spots on the tablets. Product Recalls",
-   "link": "https://www.hsa.gov.sg/announcements/recall-of-tetrabenazine-25mg-112-s-sun-italy/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "17e4e78cf0dd8aa6"
-  },
-  {
-   "title": "29 October 2026 29 October 2026 HSA Charges 38-Year-Old Male for Alleged Trafficking of Etomidate Vaporiser Pods Audiences Consumer Healthcare professional Industry member Product-type Tobacco control Press Releases",
-   "link": "https://www.hsa.gov.sg/announcements/hsa-charges-38-year-old-male-for-alleged-trafficking-of-etomidate-vaporiser-pods/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "13545bd1fb152bac"
-  },
-  {
-   "title": "26 October 2026 26 October 2026 Mean applicant screening response time Audiences Industry member HSA\u2019s target screening turn-around-time from the date of receipt of the application dossier to the date of acceptance or non-acceptance/withdrawal of the application (excluding applicant\u2019s response time) is 50 working days (WD). Regulatory Updates",
-   "link": "https://www.hsa.gov.sg/announcements/mean-applicant-screening-response-time-oct26/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "fe47247282c7c388"
-  },
-  {
-   "title": "21 October 2026 21 October 2026 Haze Advisory for Blood Donors HSA Updates",
-   "link": "https://www.hsa.gov.sg/announcements/haze-advisory-for-blood-donors/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "fab944a3034271b4"
-  },
-  {
-   "title": "21 October 2026 21 October 2026 Recall of DANTRIUM 20 mg Powder for Solution for Injection Audiences Healthcare professional Product-type Therapeutic Products Retail-level recall of one batch of DANTRIUM 20 mg Powder for Solution for Injection, containing dantrolene, due to presence of visible foreign particulate matter in the vials. Product Recalls",
-   "link": "https://www.hsa.gov.sg/announcements/recall-of-dantrium-20-mg-powder-for-solution-for-injection/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "16c092e4968d03b1"
-  },
-  {
-   "title": "12 October 2026 12 October 2026 Health Sciences Authority Strengthens Local and Global Partnerships to Accelerate Healthcare Innovations Audiences Consumer Healthcare professional Industry member Press Releases",
-   "link": "https://www.hsa.gov.sg/announcements/health-sciences-authority-strengthens-local-and-global-partnerships-to-accelerate-healthcare-innovations/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "d7b598c56ed300ca"
-  },
-  {
-   "title": "12 October 2026 12 October 2026 Keynote Address by Adj Prof (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority, at the Inaugural Health Regulatory Conference 2026 Audiences Consumer Healthcare professional Industry member Speeches",
-   "link": "https://www.hsa.gov.sg/announcements/keynote-address-by-chief-executive-officer--health-sciences-authority--at-the-inaugural-health-regulatory-conference-2026/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "1f498b4680a5090e"
-  },
-  {
-   "title": "12 October 2026 12 October 2026 Recall of Clonotril (Clonazepam) 0.5 Tablet 0.5 mg Audiences Healthcare professional Product-type Therapeutic Products Retail-level recall of several batches of Clonotril 0.5 Tablet 0.5 mg due to out-of-specification results in stability study Product Recalls",
-   "link": "https://www.hsa.gov.sg/announcements/recall-of-clonotril--clonazepam--0-5-tablet-0-5-mg/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "638ed54ef1d8b45f"
-  },
-  {
-   "title": "2 October 2026 2 October 2026 First Etomidate Vaporiser Pod Importer Sentenced to Three Years' Jail and Five Strokes of the Cane Audiences Consumer Healthcare professional Industry member Press Releases",
-   "link": "https://www.hsa.gov.sg/announcements/first-etomidate-vaporiser-pod-importer-sentenced-to-three-years--jail-and-five-strokes-of-the-cane/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "fa7b005e55ca5036"
-  },
-  {
-   "title": "Health services and info regulation",
-   "link": "https://www.hsa.gov.sg/about-us/integrated-health-regulation/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "ecf78bcedc40c805"
-  },
-  {
-   "title": "HSA Data Protection Policy",
-   "link": "https://www.hsa.gov.sg/hsa-data-protection-policy/",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "245753de9e1c04c4"
-  },
-  {
-   "title": "Report Vulnerability (opens in new tab)",
-   "link": "https://go.gov.sg/report-vulnerability",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "25fefee4f13bb421"
-  },
-  {
-   "title": "Made with Isomer (opens in new tab)",
-   "link": "https://www.isomer.gov.sg",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "9393e576b5369d2b"
-  },
-  {
-   "title": "Built by Open Government Products (opens in new tab)",
-   "link": "https://www.open.gov.sg",
-   "summary": "",
-   "date": null,
-   "source": "HSA announcements",
-   "source_id": "hsa",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "5f0aea3916c47da7"
-  },
-  {
-   "title": "30 October 2026 30 October 2026 SPEECH BY MR TAN KIAT HOW, SENIOR MINISTER OF STATE, MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATION & MINISTRY OF HEALTH, AT THE NATIONAL CELEBRATION OF SENIORS 2026, 30 OCTOBER 2026 Speeches",
-   "link": "https://www.moh.gov.sg/newsroom/speech-by-mr-tan-kiat-how--senior-minister-of-state--ministry-of-digital-development-and-information---ministry-of-health--at-the-national-celebration-of-seniors-2026--30-october-2026-/",
+   "title": "29 October 2026 29 October 2026 SPEECH BY MR TAN KIAT HOW, SENIOR MINISTER OF STATE, MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATION & MINISTRY OF HEALTH, AT THE WORLD STROKE DAY CELEBRATIONS BY STROKE SUPPORT STATION, 29 OCTOBER 2026 Speeches",
+   "link": "https://www.moh.gov.sg/newsroom/speech-by-mr-tan-kiat-how--senior-minister-of-state--ministry-of-digital-development-and-information---ministry-of-health--at-the-world-stroke-day-celebrations-by-stroke-support-station--29-october-2026/",
    "summary": "",
    "date": null,
    "source": "MOH press room",
    "source_id": "moh",
    "cat": "sg-health",
    "topic": "Singapore health",
-   "key": "90566f012d3d0444"
-  },
-  {
-   "title": "30 October 2026 30 October 2026 NEW AGE WELL KAKIS PROGRAMME TO OFFER VOLUNTEERING OPPORTUNITIES AT OVER 100 COMMUNITY CARE TOUCHPOINTS Press Releases",
-   "link": "https://www.moh.gov.sg/newsroom/new-age-well-kakis-programme-to-offer-volunteering-opportunities-at-over-100-community-care-touchpoints-/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "5c3c9712ea265ce9"
-  },
-  {
-   "title": "30 October 2026 30 October 2026 SPEECH BY MR ONG YE KUNG, MINISTER FOR HEALTH AND COORDINATING MINISTER FOR SOCIAL POLICIES, AT THE OPENING CEREMONY OF THE SINGAPORE GENERAL HOSPITAL EMERGENCY/NATIONAL NEUROSCIENCE INSTITUTE BUILDING Speeches",
-   "link": "https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung--minister-for-health-and-coordinating-minister-for-social-policies--at-the-opening-ceremony-of-the-singapore-general-hospital-emergency-national-neuroscience-institute-building/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "8369f84423a6cd19"
-  },
-  {
-   "title": "29 October 2026 29 October 2026 SPEECH BY MR TAN KIAT HOW, SENIOR MINISTER OF STATE, MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATION & MINISTRY OF HEALTH, AT THE GOOGLE FOR HEALTH SUMMIT, 29 OCTOBER 2026 Speeches",
-   "link": "https://www.moh.gov.sg/newsroom/speech-by-mr-tan-kiat-how--senior-minister-of-state--ministry-of-digital-development-and-information---ministry-of-health--at-the-google-for-health-summit--29-october-2026/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "148ebd60decdf732"
-  },
-  {
-   "title": "26 October 2026 26 October 2026 TCM INTEGRATED IN MAINSTREAM HEALTHCARE IN A SAFE WAY THAT BENEFITS PATIENTS Forum Replies",
-   "link": "https://www.moh.gov.sg/newsroom/tcm-integrated-in-mainstream-healthcare-in-a-safe-way-that-benefits-patients/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "24b22ead2e63a170"
-  },
-  {
-   "title": "26 October 2026 26 October 2026 SPEECH BY PROFESSOR KENNETH MAK, DIRECTOR-GENERAL OF HEALTH, MINISTRY OF HEALTH, AT THE SINGAPORE POPULATION ORAL HEALTH SYMPOSIUM, 26 OCTOBER 2026 Speeches",
-   "link": "https://www.moh.gov.sg/newsroom/speech-by-professor-kenneth-mak--director-general-of-health--ministry-of-health--at-the-singapore-population-oral-health-symposium--26-october-2026/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "bc5c341d4c880769"
-  },
-  {
-   "title": "22 October 2026 22 October 2026 SPEECH BY MR ONG YE KUNG, MINISTER FOR HEALTH AND COORDINATING MINISTER FOR SOCIAL POLICIES, AT THE 2ND SINGAPORE SYSTEMIC FAMILY THERAPY CONFERENCE, 22 OCTOBER 2026 Speeches",
-   "link": "https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung--minister-for-health-and-coordinating-minister-for-social-policies--at-the-2nd-singapore-systemic-family-therapy-conference--22-october-2026/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "34380100469ab460"
-  },
-  {
-   "title": "19 October 2026 19 October 2026 IMPLEMENTATION MEMORANDUM ON THE SINGAPORE-PHILIPPINES NURSE EDUCATOR SCHOLARSHIP SCHEME Press Releases",
-   "link": "https://www.moh.gov.sg/newsroom/implementation-memorandum-on-the-singapore-philippines-nurse-educator-scholarship-scheme/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "27ee88d0da5422c4"
-  },
-  {
-   "title": "17 October 2026 17 October 2026 NEW TRADITIONAL CHINESE MEDICINE (TCM) ACCREDITATION PROGRAMME TO STRENGTHEN QUALITY, CALL FOR TCM INTEGRATIVE SANDBOX PROPOSALS TO FOSTER INNOVATION IN INTEGRATED HEALTHCARE Press Releases",
-   "link": "https://www.moh.gov.sg/newsroom/-new-traditional-chinese-medicine--tcm--accreditation-programme-to-strengthen-quality--call-for-tcm-integrative-sandbox-proposals-to-foster-innovation-in-integrated-healthcare/",
-   "summary": "",
-   "date": null,
-   "source": "MOH press room",
-   "source_id": "moh",
-   "cat": "sg-health",
-   "topic": "Singapore health",
-   "key": "549b8d6ea59dcebe"
+   "key": "1cbd39ae4a2ff7b6"
   }
  ]
 }
