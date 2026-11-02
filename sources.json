@@ -1,0 +1,24 @@
+{
+  "_note": "URLs marked verify=true were written from memory and not testable from the build sandbox (egress blocked). First real run will report which fail.",
+  "sources": [
+    {"id":"nejm","name":"NEJM","cat":"medical","topic":"General medicine","type":"rss","url":"https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss","verify":true},
+    {"id":"lancet","name":"The Lancet","cat":"medical","topic":"General medicine","type":"rss","url":"https://www.thelancet.com/rssfeed/lancet_current.xml","verify":true},
+    {"id":"jama","name":"JAMA","cat":"medical","topic":"General medicine","type":"rss","url":"https://jamanetwork.com/rss/site_3/67.xml","verify":true},
+    {"id":"bmj","name":"BMJ","cat":"medical","topic":"General medicine","type":"rss","url":"https://www.bmj.com/rss/recent.xml","verify":true},
+    {"id":"annals","name":"Annals of Internal Medicine","cat":"medical","topic":"General medicine","type":"rss","url":"https://www.acpjournals.org/action/showFeed?type=etoc&feed=rss&jc=aim","verify":true},
+    {"id":"bja","name":"British Journal of Anaesthesia","cat":"medical","topic":"Anaesthesia","type":"rss","url":"https://www.bjanaesthesia.org/current.rss","verify":true},
+    {"id":"anaesthesia","name":"Anaesthesia","cat":"medical","topic":"Anaesthesia","type":"rss","url":"https://associationofanaesthetists-publications.onlinelibrary.wiley.com/feed/13652044/most-recent","verify":true},
+    {"id":"anesthesiology","name":"Anesthesiology (via PubMed)","cat":"medical","topic":"Anaesthesia","type":"rss","url":"https://pubmed.ncbi.nlm.nih.gov/?term=%22Anesthesiology%22%5Bjour%5D&sort=date&format=rss","verify":true,"note":"Create a PubMed saved-search RSS and paste its URL here; the one given is a placeholder."},
+    {"id":"fda-medwatch","name":"FDA MedWatch safety alerts","cat":"safety","topic":"General medicine","type":"rss","url":"https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml","verify":true},
+    {"id":"hsa","name":"HSA announcements","cat":"sg-health","topic":"Singapore health","type":"scrape","url":"https://www.hsa.gov.sg/announcements","verify":true},
+    {"id":"moh","name":"MOH press room","cat":"sg-health","topic":"Singapore health","type":"scrape","url":"https://www.moh.gov.sg/newsroom","verify":true},
+    {"id":"st-sg","name":"Straits Times Singapore","cat":"general","topic":"Singapore","type":"rss","url":"https://www.straitstimes.com/news/singapore/rss.xml","verify":true},
+    {"id":"st-biz","name":"Straits Times Business","cat":"general","topic":"Markets","type":"rss","url":"https://www.straitstimes.com/news/business/rss.xml","verify":true},
+    {"id":"cna-sg","name":"CNA Singapore","cat":"general","topic":"Singapore","type":"rss","url":"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416","verify":true},
+    {"id":"cna-asia","name":"CNA Asia","cat":"general","topic":"Southeast Asia","type":"rss","url":"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511","verify":true},
+    {"id":"cna-biz","name":"CNA Business","cat":"general","topic":"Markets","type":"rss","url":"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936","verify":true},
+    {"id":"bbc-world","name":"BBC World","cat":"global","topic":"Global event","type":"rss","url":"https://feeds.bbci.co.uk/news/world/rss.xml","verify":false},
+    {"id":"bbc-biz","name":"BBC Business","cat":"general","topic":"Markets","type":"rss","url":"https://feeds.bbci.co.uk/news/business/rss.xml","verify":false},
+    {"id":"ars","name":"Ars Technica","cat":"general","topic":"Tech/AI","type":"rss","url":"https://feeds.arstechnica.com/arstechnica/index","verify":false}
+  ]
+}

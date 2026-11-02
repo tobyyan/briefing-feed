@@ -1,0 +1,21 @@
+name: fetch-feeds
+on:
+  schedule:
+    - cron: "30 22 * * *"   # 06:30 SGT, an hour before the 07:35 briefing
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python fetch_feeds.py --out data --seen data/seen.json --since-hours 36
+      - name: Commit results
+        run: |
+          git config user.name "feed-bot"; git config user.email "feed-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "feed $(date -u +%F)"
+          git push

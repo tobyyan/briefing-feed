@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opml version="2.0"><head><title>Morning Briefing sources</title></head><body>
+<outline type="rss" text="NEJM" title="NEJM" xmlUrl="https://www.nejm.org/action/showFeed?jc=nejm&amp;type=etoc&amp;feed=rss" category="medical"/>
+<outline type="rss" text="The Lancet" title="The Lancet" xmlUrl="https://www.thelancet.com/rssfeed/lancet_current.xml" category="medical"/>
+<outline type="rss" text="JAMA" title="JAMA" xmlUrl="https://jamanetwork.com/rss/site_3/67.xml" category="medical"/>
+<outline type="rss" text="BMJ" title="BMJ" xmlUrl="https://www.bmj.com/rss/recent.xml" category="medical"/>
+<outline type="rss" text="Annals of Internal Medicine" title="Annals of Internal Medicine" xmlUrl="https://www.acpjournals.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=aim" category="medical"/>
+<outline type="rss" text="British Journal of Anaesthesia" title="British Journal of Anaesthesia" xmlUrl="https://www.bjanaesthesia.org/current.rss" category="medical"/>
+<outline type="rss" text="Anaesthesia" title="Anaesthesia" xmlUrl="https://associationofanaesthetists-publications.onlinelibrary.wiley.com/feed/13652044/most-recent" category="medical"/>
+<outline type="rss" text="Anesthesiology (via PubMed)" title="Anesthesiology (via PubMed)" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/?term=%22Anesthesiology%22%5Bjour%5D&amp;sort=date&amp;format=rss" category="medical"/>
+<outline type="rss" text="FDA MedWatch safety alerts" title="FDA MedWatch safety alerts" xmlUrl="https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml" category="safety"/>
+<outline type="rss" text="HSA announcements" title="HSA announcements" xmlUrl="https://www.hsa.gov.sg/announcements" category="sg-health"/>
+<outline type="rss" text="MOH press room" title="MOH press room" xmlUrl="https://www.moh.gov.sg/newsroom" category="sg-health"/>
+<outline type="rss" text="Straits Times Singapore" title="Straits Times Singapore" xmlUrl="https://www.straitstimes.com/news/singapore/rss.xml" category="general"/>
+<outline type="rss" text="Straits Times Business" title="Straits Times Business" xmlUrl="https://www.straitstimes.com/news/business/rss.xml" category="general"/>
+<outline type="rss" text="CNA Singapore" title="CNA Singapore" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=10416" category="general"/>
+<outline type="rss" text="CNA Asia" title="CNA Asia" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6511" category="general"/>
+<outline type="rss" text="CNA Business" title="CNA Business" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&amp;category=6936" category="general"/>
+<outline type="rss" text="BBC World" title="BBC World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" category="global"/>
+<outline type="rss" text="BBC Business" title="BBC Business" xmlUrl="https://feeds.bbci.co.uk/news/business/rss.xml" category="general"/>
+<outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" category="general"/>
+</body></opml>
