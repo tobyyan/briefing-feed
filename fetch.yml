@@ -1,7 +1,7 @@
 name: fetch-feeds
 on:
   schedule:
-    - cron: "30 22 * * *"   # 06:30 SGT, an hour before the 07:35 briefing
+    - cron: "30 19 * * *"  # 03:30 SGT
   workflow_dispatch: {}
 permissions:
   contents: write
