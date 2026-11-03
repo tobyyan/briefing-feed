@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T01:36:44.560503+00:00",
+ "generated": "2026-11-03T03:31:24.967393+00:00",
  "failed": 0,
  "total": 19,
  "sources": [
@@ -7,7 +7,7 @@
    "id": "nejm",
    "name": "NEJM",
    "ok": true,
-   "fetched": 57,
+   "fetched": 58,
    "new": 0
   },
   {
@@ -29,7 +29,7 @@
    "name": "BMJ",
    "ok": true,
    "fetched": 6,
-   "new": 0
+   "new": 6
   },
   {
    "id": "annals",
@@ -42,8 +42,8 @@
    "id": "bja",
    "name": "British Journal of Anaesthesia",
    "ok": true,
-   "fetched": 144,
-   "new": 0
+   "fetched": 146,
+   "new": 2
   },
   {
    "id": "anaesthesia",
@@ -57,14 +57,14 @@
    "name": "Anesthesiology (via PubMed)",
    "ok": true,
    "fetched": 50,
-   "new": 0
+   "new": 1
   },
   {
    "id": "fda-medwatch",
    "name": "FDA MedWatch safety alerts",
    "ok": true,
    "fetched": 20,
-   "new": 0
+   "new": 2
   },
   {
    "id": "hsa",
@@ -78,63 +78,63 @@
    "name": "MOH press room",
    "ok": true,
    "fetched": 13,
-   "new": 1
+   "new": 0
   },
   {
    "id": "st-sg",
    "name": "Straits Times Singapore",
    "ok": true,
-   "fetched": 36,
-   "new": 28
+   "fetched": 50,
+   "new": 40
   },
   {
    "id": "st-biz",
    "name": "Straits Times Business",
    "ok": true,
-   "fetched": 22,
-   "new": 19
+   "fetched": 42,
+   "new": 38
   },
   {
    "id": "cna-sg",
    "name": "CNA Singapore",
    "ok": true,
-   "fetched": 16,
-   "new": 15
+   "fetched": 20,
+   "new": 20
   },
   {
    "id": "cna-asia",
    "name": "CNA Asia",
    "ok": true,
-   "fetched": 15,
-   "new": 12
+   "fetched": 20,
+   "new": 19
   },
   {
    "id": "cna-biz",
    "name": "CNA Business",
    "ok": true,
-   "fetched": 13,
-   "new": 10
+   "fetched": 20,
+   "new": 20
   },
   {
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "fetched": 30,
-   "new": 27
+   "fetched": 35,
+   "new": 32
   },
   {
    "id": "bbc-biz",
    "name": "BBC Business",
    "ok": true,
-   "fetched": 46,
-   "new": 10
+   "fetched": 53,
+   "new": 16
   },
   {
    "id": "ars",
    "name": "Ars Technica",
    "ok": true,
    "fetched": 20,
-   "new": 0
+   "new": 11
   }
  ]
 }
