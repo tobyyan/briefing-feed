@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T02:37:21.857265+00:00",
+ "generated": "2026-11-06T02:37:08.158922+00:00",
  "failed": 0,
  "total": 19,
  "sources": [
@@ -7,15 +7,15 @@
    "id": "nejm",
    "name": "NEJM",
    "ok": true,
-   "fetched": 60,
+   "fetched": 52,
    "new": 0
   },
   {
    "id": "lancet",
    "name": "The Lancet",
    "ok": true,
-   "fetched": 30,
-   "new": 0
+   "fetched": 24,
+   "new": 15
   },
   {
    "id": "jama",
@@ -42,15 +42,15 @@
    "id": "bja",
    "name": "British Journal of Anaesthesia",
    "ok": true,
-   "fetched": 146,
-   "new": 0
+   "fetched": 147,
+   "new": 1
   },
   {
    "id": "anaesthesia",
    "name": "Anaesthesia",
    "ok": true,
    "fetched": 92,
-   "new": 1
+   "new": 0
   },
   {
    "id": "anesthesiology",
@@ -71,28 +71,28 @@
    "name": "HSA announcements",
    "ok": true,
    "fetched": 16,
-   "new": 1
+   "new": 3
   },
   {
    "id": "moh",
    "name": "MOH press room",
    "ok": true,
    "fetched": 13,
-   "new": 10
+   "new": 1
   },
   {
    "id": "st-sg",
    "name": "Straits Times Singapore",
    "ok": true,
    "fetched": 50,
-   "new": 28
+   "new": 37
   },
   {
    "id": "st-biz",
    "name": "Straits Times Business",
    "ok": true,
-   "fetched": 40,
-   "new": 26
+   "fetched": 41,
+   "new": 33
   },
   {
    "id": "cna-sg",
@@ -106,7 +106,7 @@
    "name": "CNA Asia",
    "ok": true,
    "fetched": 20,
-   "new": 18
+   "new": 20
   },
   {
    "id": "cna-biz",
@@ -119,15 +119,15 @@
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "fetched": 23,
-   "new": 19
+   "fetched": 22,
+   "new": 20
   },
   {
    "id": "bbc-biz",
    "name": "BBC Business",
    "ok": true,
-   "fetched": 43,
-   "new": 16
+   "fetched": 52,
+   "new": 20
   },
   {
    "id": "ars",
