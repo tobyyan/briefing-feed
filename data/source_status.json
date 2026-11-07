@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T02:37:08.158922+00:00",
+ "generated": "2026-11-07T02:04:15.555481+00:00",
  "failed": 0,
  "total": 19,
  "sources": [
@@ -42,8 +42,8 @@
    "id": "bja",
    "name": "British Journal of Anaesthesia",
    "ok": true,
-   "fetched": 147,
-   "new": 1
+   "fetched": 154,
+   "new": 4
   },
   {
    "id": "anaesthesia",
@@ -71,28 +71,28 @@
    "name": "HSA announcements",
    "ok": true,
    "fetched": 16,
-   "new": 3
+   "new": 0
   },
   {
    "id": "moh",
    "name": "MOH press room",
    "ok": true,
    "fetched": 13,
-   "new": 1
+   "new": 0
   },
   {
    "id": "st-sg",
    "name": "Straits Times Singapore",
    "ok": true,
    "fetched": 50,
-   "new": 37
+   "new": 39
   },
   {
    "id": "st-biz",
    "name": "Straits Times Business",
    "ok": true,
-   "fetched": 41,
-   "new": 33
+   "fetched": 36,
+   "new": 26
   },
   {
    "id": "cna-sg",
@@ -119,15 +119,15 @@
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "fetched": 22,
-   "new": 20
+   "fetched": 25,
+   "new": 24
   },
   {
    "id": "bbc-biz",
    "name": "BBC Business",
    "ok": true,
-   "fetched": 52,
-   "new": 20
+   "fetched": 54,
+   "new": 16
   },
   {
    "id": "ars",
