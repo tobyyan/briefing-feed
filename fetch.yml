@@ -1,7 +1,11 @@
 name: fetch-feeds
 on:
   schedule:
-    - cron: "30 19 * * *"  # 03:30 SGT
+    # GitHub starts scheduled runs 3.5-5h late (observed 3-7 Nov 2026).
+    # Primary: 01:30 SGT -> expect ~05:00-06:30 SGT, before the 07:35 briefing.
+    - cron: "30 17 * * *"
+    # Backup: 04:45 SGT. Harmless if the primary already ran.
+    - cron: "45 20 * * *"
   workflow_dispatch: {}
 permissions:
   contents: write
