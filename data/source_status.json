@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T02:00:31.377826+00:00",
+ "generated": "2026-11-12T03:10:14.707978+00:00",
  "failed": 0,
  "total": 19,
  "sources": [
@@ -22,7 +22,7 @@
    "name": "JAMA",
    "ok": true,
    "fetched": 42,
-   "new": 42
+   "new": 0
   },
   {
    "id": "bmj",
@@ -42,29 +42,29 @@
    "id": "bja",
    "name": "British Journal of Anaesthesia",
    "ok": true,
-   "fetched": 161,
-   "new": 5
+   "fetched": 163,
+   "new": 2
   },
   {
    "id": "anaesthesia",
    "name": "Anaesthesia",
    "ok": true,
    "fetched": 92,
-   "new": 2
+   "new": 0
   },
   {
    "id": "anesthesiology",
    "name": "Anesthesiology (via PubMed)",
    "ok": true,
    "fetched": 50,
-   "new": 12
+   "new": 0
   },
   {
    "id": "fda-medwatch",
    "name": "FDA MedWatch safety alerts",
    "ok": true,
    "fetched": 20,
-   "new": 2
+   "new": 0
   },
   {
    "id": "hsa",
@@ -84,15 +84,15 @@
    "id": "st-sg",
    "name": "Straits Times Singapore",
    "ok": true,
-   "fetched": 44,
-   "new": 34
+   "fetched": 49,
+   "new": 26
   },
   {
    "id": "st-biz",
    "name": "Straits Times Business",
    "ok": true,
-   "fetched": 31,
-   "new": 23
+   "fetched": 30,
+   "new": 22
   },
   {
    "id": "cna-sg",
@@ -106,7 +106,7 @@
    "name": "CNA Asia",
    "ok": true,
    "fetched": 20,
-   "new": 16
+   "new": 19
   },
   {
    "id": "cna-biz",
@@ -119,15 +119,15 @@
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "fetched": 38,
-   "new": 38
+   "fetched": 30,
+   "new": 29
   },
   {
    "id": "bbc-biz",
    "name": "BBC Business",
    "ok": true,
-   "fetched": 51,
-   "new": 27
+   "fetched": 56,
+   "new": 19
   },
   {
    "id": "ars",
