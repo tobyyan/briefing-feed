@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T02:43:06.974399+00:00",
+ "generated": "2026-11-14T02:31:53.828276+00:00",
  "failed": 0,
  "total": 19,
  "sources": [
@@ -70,29 +70,29 @@
    "id": "hsa",
    "name": "HSA announcements",
    "ok": true,
-   "fetched": 16,
-   "new": 0
+   "fetched": 17,
+   "new": 1
   },
   {
    "id": "moh",
    "name": "MOH press room",
    "ok": true,
    "fetched": 13,
-   "new": 1
+   "new": 0
   },
   {
    "id": "st-sg",
    "name": "Straits Times Singapore",
    "ok": true,
-   "fetched": 50,
-   "new": 29
+   "fetched": 49,
+   "new": 31
   },
   {
    "id": "st-biz",
    "name": "Straits Times Business",
    "ok": true,
-   "fetched": 41,
-   "new": 33
+   "fetched": 38,
+   "new": 23
   },
   {
    "id": "cna-sg",
@@ -119,15 +119,15 @@
    "id": "bbc-world",
    "name": "BBC World",
    "ok": true,
-   "fetched": 33,
-   "new": 29
+   "fetched": 26,
+   "new": 24
   },
   {
    "id": "bbc-biz",
    "name": "BBC Business",
    "ok": true,
-   "fetched": 59,
-   "new": 20
+   "fetched": 56,
+   "new": 19
   },
   {
    "id": "ars",
